@@ -1,0 +1,110 @@
+.bt1 {
+    text-align: center;
+    margin    : 0 10px;
+
+}
+
+.title {
+    font-size: 68px;
+
+}
+
+.title1 {
+    font-size: 18px;
+}
+
+.it {
+    color: red;
+}
+
+.container {
+    background: #80808040;
+    margin    : -12px 10px;
+    padding   : 25px;
+}
+
+.content {
+    display: flex;
+    gap    : 36px;
+    margin : 23px 21px;
+}
+
+.tt1 {
+    font-weight: bold;
+}
+
+.content2 {
+    display   : flex;
+    margin-top: -11px;
+}
+
+img {
+    height: 114px;
+    width : 115px;
+    margin: 0 10px;
+
+}
+
+.content-title {
+    font-weight: bold;
+}
+
+.tt2 {
+    padding  : 0 80px;
+    font-size: 13px;
+}
+
+.footer {
+    margin: 0px -79px;
+}
+
+body {
+    font-family: sans-serif;
+    font-size  : 15px;
+}
+
+#menu {
+    width    : 20%;
+    float    : left;
+    font-size: 13px;
+}
+
+#menu ul {
+    background     : black;
+    width          : 150px;
+    height         : 704px;
+    padding        : 0;
+    list-style-type: none;
+    text-align     : left;
+}
+
+#menu li {
+    height       : 40px;
+    line-height  : 40px;
+    border-bottom: 1px solid rgb(58, 57, 57);
+    padding      : 0 1em;
+}
+
+#menu li a {
+    text-decoration: none;
+    color          : white;
+    font-weight    : bold;
+    display        : block;
+}
+
+#menu li:hover {
+    background: #6241d8;
+}
+
+.bt {
+    float: right;
+    width: 77%;
+}
+
+.title-footer {
+    color: gray;
+}
+
+.content3 {
+    font-size: 12px;
+}
